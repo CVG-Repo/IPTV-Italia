@@ -153,6 +153,8 @@ https://5f22d76e220e1.streamlock.net/telereporter/telereporter/playlist.m3u8
 https://stream.ets-sistemi.it:2020/hls/rete7-live/rete7-live.m3u8
 #EXTINF:-1 tvg-name="Tele Radio Pace 2" tvg-logo="https://i.imgur.com/U4E3eEr.png" tvg-chno="85" tvg-country="IT" group-title="Locali Liguria",Tele Radio Pace 2
 https://zkpywrbgdbeg-hls-live.mariatvcdn.it/teleradiopace2/254c9b5c52a73a94ef0f6169cbd05dc2.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Rai 4K" tvg-logo="https://i.imgur.com/5gkt9DD.png" tvg-id="Rai4K.it" tvg-chno="101" tvg-country="IT" group-title="Italy",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
 #EXTINF:-1 tvg-name="Gold Tv" tvg-logo="https://i.imgur.com/3rVi4kD.png" tvg-id="GoldTV.it" tvg-chno="128" tvg-country="IT" group-title="Altro",Gold Tv
 https://5f11919dca3bd.streamlock.net/goldtv/goldtv/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecampione" tvg-logo="https://i.imgur.com/LhjwmME.png" tvg-chno="138" vg-country="IT" group-title="Altro",Telecampione
@@ -173,8 +175,8 @@ https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Roma Network" tvg-logo="https://i.imgur.com/RKvfStm.png" tvg-chno="222" tvg-country="IT" group-title="Altro",Radio Roma Network
 https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
-#EXTINF:-1 tvg-name="Cusano Italia Tv" tvg-logo="https://i.imgur.com/9F1sVjZ.png" tvg-chno="234" tvg-country="IT" group-title="Altro",Cusano Italia Tv
-https://router.xdevel.com/video0s975363-69/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Cusano Italia News" tvg-logo="https://i.imgur.com/9F1sVjZ.png" tvg-chno="234" tvg-country="IT" group-title="Altro",Cusano Italia News
+https://router.xdevel.com/video1s975363-1596/stream/playlist.m3u8
 #EXTINF:-1 tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-id="Manga.it" tvg-chno="236" tvg-country="IT" group-title="Altro",MAN-GA
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
 #EXTINF:-1 tvg-name="Iunior TV" tvg-chno="237" tvg-country="IT" group-title="Altro",Iunior TV
