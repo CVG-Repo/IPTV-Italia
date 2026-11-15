@@ -175,3 +175,13 @@ https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
 #EXTINF:-1 tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-id="Manga.it" tvg-chno="236" tvg-country="IT" group-title="Altro",MAN-GA
 https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
+#EXTINF:-1 tvg-name="Gambero Rosso" tvg-logo="https://i.imgur.com/RApMW5x.png" tvg-id="GamberoRosso.it" tvg-chno="257" tvg-country="IT" group-title="Altro",Gambero Rosso
+https://cdndirector.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=h5bGwJYFZy9AO66NpfTxbhTni9e637DUu_SUPhn3MewWKmiD4Rmw0UuwfufSVb3G
+#EXTINF:-1 tvg-name="70-80" tvg-id="70-80.it" tvg-chno="351" tvg-country="IT" group-title="Altro",70-80
+https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-name="AutoMoto" tvg-id="AutoMoto.it" tvg-chno="510" tvg-country="IT" group-title="Altro",AutoMoto
+https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/aff6198a-4843-4e91-9d2a-6e595e77f3a0/0.m3u8
+#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Italy",Radio m2o Tv
+https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-name="Class Moda TV" tvg-logo="https://i.imgur.com/RApMW5x.png" tvg-id="ClassModaTV.it" tvg-chno="883" tvg-country="IT" group-title="Altro",Class Moda TV
+https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/1ad4e3c8-759f-42eb-8a3b-097eb68c7fd8/0.m3u8
