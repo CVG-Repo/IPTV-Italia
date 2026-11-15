@@ -181,7 +181,46 @@ https://cdndirector.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=h5bGwJYFZy9A
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
 #EXTINF:-1 tvg-name="AutoMoto" tvg-id="AutoMoto.it" tvg-chno="510" tvg-country="IT" group-title="Altro",AutoMoto
 https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/aff6198a-4843-4e91-9d2a-6e595e77f3a0/0.m3u8
-#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Italy",Radio m2o Tv
+#EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-chno="712" tvg-id="m2oTV.it" tvg-country="IT" group-title="Altro",Radio m2o Tv
 https://streamcdnr11-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
+#EXTINF:-1 tvg-name="EuroSport 1" tvg-logo="" tvg-id="EuroSport.it" tvg-chno="801" tvg-country="IT" group-title="Sky",EuroSport 1
+http://88.212.7.14/live/esp1_hun/index.m3u8
+#EXTINF:-1 tvg-name="EuroSport 2" tvg-logo="" tvg-id="EuroSport.it" tvg-chno="802" tvg-country="IT" group-title="Sky",EuroSport 2
+http://88.212.7.14/live/esp2_hun/index.m3u8
 #EXTINF:-1 tvg-name="Class Moda TV" tvg-logo="https://i.imgur.com/RApMW5x.png" tvg-id="ClassModaTV.it" tvg-chno="883" tvg-country="IT" group-title="Altro",Class Moda TV
 https://de7w7o1fgdvs4.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-98ub43liqixi4/1ad4e3c8-759f-42eb-8a3b-097eb68c7fd8/0.m3u8
+#EXTINF:-1 tvg-id="PlutoTvSerie.it" tvg-chno="901" tvg-country="IT" group-title="PlutoTv",PLUTO TV SERIE
+https://jmp2.uk/plu-60b9ff2722bfa400072676ef.m3u8
+#EXTINF:-1 tvg-id="PlutoTvSerie.it Sci-fi" tvg-chno="902" tvg-country="IT" group-title="PlutoTv",PLUTO TV SERIE SCI-FI
+https://jmp2.uk/plu-67ed14aaf7c5d70b9089c3bf.m3u8
+#EXTINF:-1 tvg-id="PlutoTvParanormal.it" tvg-chno="903" tvg-country="IT" group-title="PlutoTv",PLUTO TV PARANORMAL
+https://jmp2.uk/plu-66c70033b1a34600087bb09a.m3u8
+#EXTINF:-1 tvg-id="PlutoTvFilm.it" tvg-chno="904" tvg-country="IT" group-title="PlutoTv",PLUTO TV FILM
+https://jmp2.uk/plu-608aa17fb9f4490007e6419a.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCinemaItaliano.it" tvg-chno="905" tvg-country="IT" group-title="PlutoTv",PLUTO TV CINEMA ITALIANO
+https://jmp2.uk/plu-608aa7d8359b270007861489.m3u8
+#EXTINF:-1 tvg-id="PlutoTvAzione"  tvg-chno="906" tvg-country="IT" group-title="PlutoTv",PLUTO TV AZIONE
+https://jmp2.uk/plu-608aa20a2e7f270007c4878d.m3u8
+#EXTINF:-1 tvg-id="PlutoTvThriller" tvg-chno="907" tvg-country="IT" group-title="PlutoTv",PLUTO TV THRILLER
+https://jmp2.uk/plu-608aa5e995132a00075f7005.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCommedia.it" tvg-chno="908" tvg-country="IT" group-title="PlutoTv",PLUTO TV COMMEDIA 
+https://jmp2.uk/plu-608aa512d67fd900072323db.m3u8
+#EXTINF:-1 tvg-id="PlutoTvRomance" tvg-chno="909" tvg-country="IT" group-title="PlutoTv",PLUTO TV ROMANCE
+https://jmp2.uk/plu-608aa4a4cc92820007b663af.m3u8
+#EXTINF:-1 tvg-id="PlutoTvHorror.it" tvg-chno="910" tvg-country="IT" group-title="PlutoTv",PLUTO TV HORROR
+https://jmp2.uk/plu-61c09e3ac210ed0007606620.m3u8
+#EXTINF:-1 tvg-id="PlutoTvFilm.it" tvg-chno="911" tvg-country="IT" group-title="PlutoTv",PLUTO TV FILM STORICI
+https://jmp2.uk/plu-68750875759366af05a151ce.m3u8
+#EXTINF:-1 tvg-id="PlutoTvStoria.it" tvg-chno="912" tvg-country="IT" group-title="PlutoTv",PLUTO TV STORIA
+https://jmp2.uk/plu-65253fdf3fd33c00080214a3.m3u8
+#EXTINF:-1 tvg-id="PlutoTvCucina.it" tvg-chno="913" tvg-country="IT" group-title="PlutoTv",PLUTO TV CUCINA
+https://jmp2.uk/plu-608aa718a8ec810007d87fee.m3u8
+#EXTINF:-1 tvg-id="PlutoTvDocumentari.it" tvg-chno="914" tvg-country="IT" group-title="PlutoTv",PLUTO TV DOCUMENTARI
+https://jmp2.uk/plu-608aa8a5709d6b0007b132fe.m3u8
+#EXTINF:-1 tvg-id="PlutoTvViaggi.it" tvg-chno="915" tvg-country="IT" group-title="PlutoTv",PLUTO TV VIAGGI
+https://jmp2.uk/plu-63c923944207be0007fd0887.m3u8
+#EXTINF:-1 tvg-id="PlutoTvNatura.it" tvg-chno="916" tvg-country="IT" group-title="PlutoTv",PLUTO TV NATURA
+https://jmp2.uk/plu-60802b37709d6b0007b0c549.m3u8
+#EXTINF:-1 tvg-id="PlutoTvSport.it" tvg-chno="917" tvg-country="IT" group-title="PlutoTv",PLUTO TV SPORT
+https://jmp2.uk/plu-608030eff4b6f70007e1684c.m3u8
+
