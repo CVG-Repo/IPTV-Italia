@@ -24,7 +24,7 @@ https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="Teleradiopace.it" tvg-name="Teleradiopace 1" tvg-chno="12" tvg-logo="https://i.imgur.com/ORkkXM8.png" group-title="Locali Liguria",Teleradiopace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecity Liguria" tvg-chno="13" group-title="Locali Liguria",Telecity Liguria
-https://stream-non-verificato.invalid/telecity-liguria.m3u8
+https://64b16f23efbee.streamlock.net/telecitypiemonte/telecitypiemonte/playlist.m3u8
 #EXTINF:-1 tvg-id="Telegenova.it" tvg-name="Telegenova" tvg-chno="14" tvg-logo="https://i.imgur.com/D6HC0So.png" group-title="Locali Liguria",Telegenova
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleLiguriaSud.it" tvg-name="TeleLiguriaSud" tvg-chno="15" tvg-logo="https://i.imgur.com/OxgSGUW.png" group-title="Locali Liguria",TeleLiguriaSud
@@ -32,9 +32,9 @@ https://5f22d76e220e1.streamlock.net/tls/tls/playlist.m3u8
 #EXTINF:-1 tvg-name="Primocanale Primo Piano" tvg-chno="16" group-title="Locali Liguria",Primocanale Primo Piano
 https://stream-non-verificato.invalid/primocanale-primo-piano.m3u8
 #EXTINF:-1 tvg-name="Telecolor" tvg-chno="17" group-title="Locali Liguria",Telecolor
-https://stream-non-verificato.invalid/telecolor-liguria.m3u8
+https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 #EXTINF:-1 tvg-name="Canale Italia Extra" tvg-chno="18" group-title="Locali Liguria",Canale Italia Extra
-https://stream-non-verificato.invalid/canale-italia-extra.m3u8
+https://ovp-live.akamaized.net/ac115_live/canale1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telecupole.it" tvg-name="Telecupole" tvg-chno="19" tvg-logo="https://i.imgur.com/ZmUI9zb.png" group-title="Locali Liguria",Telecupole
 https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8
 #EXTINF:-1 tvg-id="20-mediaset.it" tvg-name="20 Mediaset" tvg-chno="20" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/20mediaset.png" group-title="Mediaset",20 Mediaset
@@ -139,3 +139,5 @@ https://5f22d76e220e1.streamlock.net/canale6/canale6/playlist.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 #EXTINF:-1 tvg-id="radio-italia-tv.it" tvg-name="Radio Italia TV" tvg-chno="70" tvg-logo="https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radioitaliatv.png" group-title="Radio",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-name="MAN-GA" tvg-logo="https://i.imgur.com/8a6WYU2.png" tvg-id="Manga.it" tvg-chno="236" tvg-country="IT" group-title="Italy",MAN-GA
+https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/playlist.m3u
