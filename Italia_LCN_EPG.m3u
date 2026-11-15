@@ -179,6 +179,8 @@ https://c65b9e710bde44819015af98e72cd7ab.msvdn.net/live/S93572876/aILSQPYFY3pF/p
 https://cdndirector.dailymotion.com/cdn/live/video/x9us6y4.m3u8?sec=h5bGwJYFZy9AO66NpfTxbhTni9e637DUu_SUPhn3MewWKmiD4Rmw0UuwfufSVb3G
 #EXTINF:-1 tvg-name="70-80" tvg-id="70-80.it" tvg-chno="351" tvg-country="IT" group-title="Altro",70-80
 https://585b674743bbb.streamlock.net/9050/9050/playlist.m3u8
+#EXTINF:-1 tvg-id="senatotv1" tvg-chno="508" tvg-country="IT" group-title="Altro",Senato tv
+https://senato-live.morescreens.com/SENATO_1_001/playlist.m3u8
 #EXTINF:-1 tvg-name="AutoMoto" tvg-id="AutoMoto.it" tvg-chno="510" tvg-country="IT" group-title="Altro",AutoMoto
 https://d2d70kuzq4qhmm.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nwqkjgrx3umyk/aff6198a-4843-4e91-9d2a-6e595e77f3a0/0.m3u8
 #EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-chno="712" tvg-id="m2oTV.it" tvg-country="IT" group-title="Altro",Radio m2o Tv
